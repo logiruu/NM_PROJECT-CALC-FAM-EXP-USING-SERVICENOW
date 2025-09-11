@@ -5,13 +5,13 @@ It focuses on building a small application in **ServiceNow** to manage daily fam
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 Keeping track of family expenses manually is difficult and often leads to errors.  
 This project uses ServiceNow to create tables, set relationships, and apply rules so that expenses are recorded and calculated automatically.  
 
 ---
 
-## 🌟 Key Features
+## Key Features
 - **Family Expenses** and **Daily Expenses** tables for storing records.  
 - Automatic **number generation** for each record.  
 - Linking daily expenses with family members using **relationships**.  
@@ -21,7 +21,7 @@ This project uses ServiceNow to create tables, set relationships, and apply rule
 
 ---
 
-## 🛠 Tools and Technologies
+## Tools and Technologies
 - ServiceNow Personal Developer Instance  
 - Tables & Fields  
 - Business Rules (with scripts)  
@@ -30,7 +30,7 @@ This project uses ServiceNow to create tables, set relationships, and apply rule
 
 ---
 
-## 📖 Workflow
+## Workflow
 1. Setup developer instance  
 2. Create update set  
 3. Build Family Expenses table  
@@ -42,23 +42,15 @@ This project uses ServiceNow to create tables, set relationships, and apply rule
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 - Add expense reports and visual charts.  
 - Monthly and yearly budget comparison.  
 - Notification or approval workflows for large expenses.  
 
 ---
 
-## 👥 Team Information
-- **Team Leader**: [Friend’s Name]  
-- **Team Members**: [Other Names]  
+## Team Information
+- **Team Leader**: Logidharan I 
+- **Team Members**: [Surya M, Saran Maruthi E, Ritchagan M A]
 
 ---
-
-## 📷 Project Screenshots
-(Add screenshots here – Family Expenses table, Daily Expenses table, Related List, Business Rule code, etc.)
-
----
-
-## 📜 License
-Created as part of the **Naan Mudhalvan Program** for academic learning.
